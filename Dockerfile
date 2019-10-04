@@ -1,5 +1,5 @@
 FROM nginx
-MAINTAINER jonatas jonatas@mielnik.com.br
+MAINTAINER jonatasmielnik jonatas@mielnik.com.br
 LABEL Description = "Conteiner do curso"
 LABEL class ="Laboratorio"
 EXPOSE 80
